@@ -8,10 +8,10 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 
 ```
 /**************************************************************
-* Class:  CSC-415-0# Summer 2022
-* Name:
-* Student ID:
-* GitHub UserID:
+* Class:  CSC-415-02 Summer 2022
+* Name: Abdoulfatah Abdillahi
+* Student ID: 921623492
+* GitHub UserID: abdoul1996
 * Project: Assignment 2 – Stucture in Memory and Buffering
 *
 * File: <name of this file>

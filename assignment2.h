@@ -1,8 +1,8 @@
 /**************************************************************
-* Class:  CSC-415-0# Summer 2021
-* Name: Robert Bierman
-* Student ID: 
-* GitHub Name: bierman
+* Class:  CSC-415-02 Summer 2021
+* Name: Abdoulfatah Abdillahi
+* Student ID: 921623492
+* GitHub Name: abdoul1996
 * Project: Assignment 2 – Command Line Arguments
 *
 * File: assignment2.h
